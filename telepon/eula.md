@@ -1,4 +1,4 @@
-**END-USER LICENSE AGREEMENT (EULA)**  
+**END-USER LICENSE AGREEMENT (EULA)**
 
 This End-User License Agreement (“**EULA**”) is a legal agreement between you (“**User**,” “**you**”) and **SAAC sp. z o.o.** (“**Company**,” “**we**,” “**us**,” or “**our**”) governing your use of the TELEPON application (“**TELEPON**” or the “**App**”). By downloading, installing, or otherwise using the App, you agree to be bound by this EULA. If you do not agree, you must not install or use TELEPON.
 
@@ -35,7 +35,7 @@ We maintain a zero-tolerance policy for content or behaviors that are harmful, a
 - Engage in any illegal, deceptive, or fraudulent activities.
 
 3.2 **Reporting Abusive Content**  
-If you encounter any content that violates this policy or have reason to believe another user is engaging in objectionable or harmful behavior, you must report it immediately to us at [support@telepon.app](mailto:support@telepon.app). 
+If you encounter any content that violates this policy or have reason to believe another user is engaging in objectionable or harmful behavior, you must report it immediately to us at [support@telepon.app](mailto:support@telepon.app).
 
 3.3 **Consequences of Violation**  
 Any violation of this section may result in immediate suspension or termination of your account (or the Ward’s account under your control, if you are an Admin), at our sole discretion, without notice or liability.
@@ -126,7 +126,29 @@ This EULA, together with our Terms & Conditions and Privacy Policy, constitutes 
 
 ---
 
-## 12. Contact Information
+## 12. Additional Terms for Apple App Store and Google Play
+
+12.1 **Apple App Store**  
+If you accessed or downloaded the App from the Apple App Store, you acknowledge and agree that:  
+- You will also comply with the **Apple Media Services Terms and Conditions** (including any usage rules set forth therein) and the **Apple End User License Agreement**.  
+- Apple is not a party to this EULA and shall have no obligation whatsoever to furnish any maintenance or support services with respect to TELEPON.  
+- In the event of any failure of TELEPON to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price (if any) for TELEPON to you; to the maximum extent permitted by applicable law, Apple will have no other warranty obligation with respect to TELEPON.  
+- Apple is not responsible for addressing any claims by you or a third party relating to TELEPON, including product liability claims; any claim that TELEPON fails to conform to any applicable legal or regulatory requirement; and claims arising under consumer protection or similar legislation.  
+- Apple is not responsible for the investigation, defense, settlement, or discharge of any third-party intellectual property infringement claim related to TELEPON.  
+- Apple and its subsidiaries are third-party beneficiaries of this EULA, and upon your acceptance of this EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce this EULA against you as a third-party beneficiary thereof.
+
+12.2 **Google Play Store**  
+If you accessed or downloaded the App from the Google Play Store, you acknowledge and agree that:  
+- You will also comply with the **Google Play Terms of Service** (including any usage rules set forth therein).  
+- Google is not a party to this EULA and shall have no obligation whatsoever to furnish any maintenance or support services with respect to TELEPON.  
+- In the event of any failure of TELEPON to conform to any applicable warranty, you may notify Google, and Google will refund the purchase price (if any) for TELEPON to you; to the maximum extent permitted by applicable law, Google will have no other warranty obligation with respect to TELEPON.  
+- Google is not responsible for addressing any claims by you or a third party relating to TELEPON, including product liability claims; any claim that TELEPON fails to conform to any applicable legal or regulatory requirement; and claims arising under consumer protection or similar legislation.  
+- Google is not responsible for the investigation, defense, settlement, or discharge of any third-party intellectual property infringement claim related to TELEPON.  
+- Google and its subsidiaries are third-party beneficiaries of this EULA, and upon your acceptance of this EULA, Google will have the right (and will be deemed to have accepted the right) to enforce this EULA against you as a third-party beneficiary thereof.
+
+---
+
+## 13. Contact Information
 
 If you have any questions, concerns, or feedback regarding this EULA, please contact us at:
 
@@ -137,4 +159,4 @@ Leona Frankowskiego 26, 20-736 Lublin, Poland
 
 ---
 
-**BY DOWNLOADING, INSTALLING, OR USING TELEPON, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THIS EULA AND AGREE TO BE BOUND BY ITS TERMS.**  
+**BY DOWNLOADING, INSTALLING, OR USING TELEPON, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THIS EULA (INCLUDING THE ADDITIONAL APP STORE TERMS) AND AGREE TO BE BOUND BY ITS TERMS.**
